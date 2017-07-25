@@ -2,7 +2,7 @@
 
 #
 #  To generate the exe file:
-# c:\Python26\python.exe setupQCgadget.py py2exe
+# python.exe setupQCgadget.py py2exe
 #
 #
 
